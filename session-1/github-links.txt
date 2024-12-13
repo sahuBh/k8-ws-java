@@ -1,0 +1,2 @@
+inventory-service: https://hub.docker.com/repository/docker/bhupendrasahu93/inventory-service/general
+order-service: https://hub.docker.com/repository/docker/bhupendrasahu93/order-service/general
